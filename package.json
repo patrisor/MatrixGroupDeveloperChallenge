@@ -1,0 +1,15 @@
+{
+  "name": "matrixgroupdeveloperchallenge",
+  "version": "1.0.0",
+  "description": "This is the Front-End Developer Challenge for the Matrix Group. The server uses Express to serve an `index.html` file that contains the website design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
